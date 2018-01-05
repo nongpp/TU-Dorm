@@ -8,8 +8,11 @@
 
 import UIKit
 
-class ViewController: UIViewController {
+class TUDormViewController: UIViewController {
 
+    @IBOutlet weak var Emergency: UIButton!
+    @IBAction func emergencyCall(_ sender: Any) {
+    }
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.

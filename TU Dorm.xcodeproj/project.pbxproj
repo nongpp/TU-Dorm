@@ -7,23 +7,58 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		2A54F30C1FE8266C00388D68 /* phone2 2.png in Resources */ = {isa = PBXBuildFile; fileRef = 2A54F30B1FE8266A00388D68 /* phone2 2.png */; };
+		2A54F30E1FE837C700388D68 /* SignInViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A54F30D1FE837C700388D68 /* SignInViewController.swift */; };
+		2A54F3141FE9205A00388D68 /* Announ.png in Resources */ = {isa = PBXBuildFile; fileRef = 2A54F3131FE9205800388D68 /* Announ.png */; };
+		2A54F3161FE9215300388D68 /* Bill.png in Resources */ = {isa = PBXBuildFile; fileRef = 2A54F3151FE9215100388D68 /* Bill.png */; };
+		2A54F3181FE9225200388D68 /* main.png in Resources */ = {isa = PBXBuildFile; fileRef = 2A54F3171FE9225000388D68 /* main.png */; };
+		2A54F31A1FE92ADA00388D68 /* Thammasat_University.png in Resources */ = {isa = PBXBuildFile; fileRef = 2A54F3191FE92AD800388D68 /* Thammasat_University.png */; };
+		2A54F31C1FE9659E00388D68 /* News.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A54F31B1FE9659E00388D68 /* News.swift */; };
+		2A54F31E1FE967C700388D68 /* NewsTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A54F31D1FE967C700388D68 /* NewsTableViewController.swift */; };
+		2A54F3201FE96C2F00388D68 /* NewsDataViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A54F31F1FE96C2F00388D68 /* NewsDataViewController.swift */; };
+		2A54F3221FE979B400388D68 /* BillTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A54F3211FE979B400388D68 /* BillTableViewController.swift */; };
+		2A54F3241FE97D2100388D68 /* Bill.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A54F3231FE97D2100388D68 /* Bill.swift */; };
+		2A54F3261FE983B000388D68 /* MaintenanceCallListViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A54F3251FE983B000388D68 /* MaintenanceCallListViewController.swift */; };
+		2A54F3281FE983DD00388D68 /* RepairedViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A54F3271FE983DD00388D68 /* RepairedViewController.swift */; };
+		2A54F32A1FEA9E7800388D68 /* RepairedItem.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A54F3291FEA9E7800388D68 /* RepairedItem.swift */; };
+		2A54F3341FEB691C00388D68 /* UserNotifications.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 2A54F3331FEB691C00388D68 /* UserNotifications.framework */; };
+		2A54F3361FEB761400388D68 /* EmergencyCallViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A54F3351FEB761400388D68 /* EmergencyCallViewController.swift */; };
 		2AA54D4A1FDDA25A00096F75 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2AA54D491FDDA25A00096F75 /* AppDelegate.swift */; };
-		2AA54D4C1FDDA25A00096F75 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2AA54D4B1FDDA25A00096F75 /* ViewController.swift */; };
+		2AA54D4C1FDDA25A00096F75 /* TUDormViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2AA54D4B1FDDA25A00096F75 /* TUDormViewController.swift */; };
 		2AA54D4F1FDDA25A00096F75 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2AA54D4D1FDDA25A00096F75 /* Main.storyboard */; };
 		2AA54D521FDDA25A00096F75 /* TU_Dorm.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 2AA54D501FDDA25A00096F75 /* TU_Dorm.xcdatamodeld */; };
 		2AA54D541FDDA25A00096F75 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2AA54D531FDDA25A00096F75 /* Assets.xcassets */; };
 		2AA54D571FDDA25A00096F75 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2AA54D551FDDA25A00096F75 /* LaunchScreen.storyboard */; };
+		2AA54D5F1FDDA26800096F75 /* DSC_8505.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2AA54D5E1FDDA26800096F75 /* DSC_8505.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		2A54F30B1FE8266A00388D68 /* phone2 2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "phone2 2.png"; path = "../../../Downloads/phone2 2.png"; sourceTree = "<group>"; };
+		2A54F30D1FE837C700388D68 /* SignInViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SignInViewController.swift; sourceTree = "<group>"; };
+		2A54F3131FE9205800388D68 /* Announ.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Announ.png; path = ../../../Downloads/Announ.png; sourceTree = "<group>"; };
+		2A54F3151FE9215100388D68 /* Bill.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Bill.png; path = ../../../Downloads/Bill.png; sourceTree = "<group>"; };
+		2A54F3171FE9225000388D68 /* main.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = main.png; path = ../../../Downloads/main.png; sourceTree = "<group>"; };
+		2A54F3191FE92AD800388D68 /* Thammasat_University.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Thammasat_University.png; path = ../../../Downloads/Thammasat_University.png; sourceTree = "<group>"; };
+		2A54F31B1FE9659E00388D68 /* News.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = News.swift; sourceTree = "<group>"; };
+		2A54F31D1FE967C700388D68 /* NewsTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewsTableViewController.swift; sourceTree = "<group>"; };
+		2A54F31F1FE96C2F00388D68 /* NewsDataViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewsDataViewController.swift; sourceTree = "<group>"; };
+		2A54F3211FE979B400388D68 /* BillTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BillTableViewController.swift; sourceTree = "<group>"; };
+		2A54F3231FE97D2100388D68 /* Bill.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Bill.swift; sourceTree = "<group>"; };
+		2A54F3251FE983B000388D68 /* MaintenanceCallListViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaintenanceCallListViewController.swift; sourceTree = "<group>"; };
+		2A54F3271FE983DD00388D68 /* RepairedViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RepairedViewController.swift; sourceTree = "<group>"; };
+		2A54F3291FEA9E7800388D68 /* RepairedItem.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RepairedItem.swift; sourceTree = "<group>"; };
+		2A54F3301FEB681000388D68 /* TU Dorm.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = "TU Dorm.entitlements"; sourceTree = "<group>"; };
+		2A54F3331FEB691C00388D68 /* UserNotifications.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UserNotifications.framework; path = System/Library/Frameworks/UserNotifications.framework; sourceTree = SDKROOT; };
+		2A54F3351FEB761400388D68 /* EmergencyCallViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EmergencyCallViewController.swift; sourceTree = "<group>"; };
 		2AA54D461FDDA25A00096F75 /* TU Dorm.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "TU Dorm.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		2AA54D491FDDA25A00096F75 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		2AA54D4B1FDDA25A00096F75 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		2AA54D4B1FDDA25A00096F75 /* TUDormViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TUDormViewController.swift; sourceTree = "<group>"; };
 		2AA54D4E1FDDA25A00096F75 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		2AA54D511FDDA25A00096F75 /* TU_Dorm.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = TU_Dorm.xcdatamodel; sourceTree = "<group>"; };
 		2AA54D531FDDA25A00096F75 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		2AA54D561FDDA25A00096F75 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		2AA54D581FDDA25A00096F75 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		2AA54D5E1FDDA26800096F75 /* DSC_8505.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = DSC_8505.jpg; path = ../../../Downloads/DSC_8505.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -31,17 +66,27 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				2A54F3341FEB691C00388D68 /* UserNotifications.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		2A54F32B1FEB680B00388D68 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				2A54F3331FEB691C00388D68 /* UserNotifications.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
 		2AA54D3D1FDDA25A00096F75 = {
 			isa = PBXGroup;
 			children = (
 				2AA54D481FDDA25A00096F75 /* TU Dorm */,
 				2AA54D471FDDA25A00096F75 /* Products */,
+				2A54F32B1FEB680B00388D68 /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -56,9 +101,26 @@
 		2AA54D481FDDA25A00096F75 /* TU Dorm */ = {
 			isa = PBXGroup;
 			children = (
+				2A54F3301FEB681000388D68 /* TU Dorm.entitlements */,
+				2AA54D5E1FDDA26800096F75 /* DSC_8505.jpg */,
+				2A54F3191FE92AD800388D68 /* Thammasat_University.png */,
+				2A54F3131FE9205800388D68 /* Announ.png */,
+				2A54F3171FE9225000388D68 /* main.png */,
+				2A54F3151FE9215100388D68 /* Bill.png */,
+				2A54F30B1FE8266A00388D68 /* phone2 2.png */,
 				2AA54D491FDDA25A00096F75 /* AppDelegate.swift */,
-				2AA54D4B1FDDA25A00096F75 /* ViewController.swift */,
+				2AA54D4B1FDDA25A00096F75 /* TUDormViewController.swift */,
+				2A54F30D1FE837C700388D68 /* SignInViewController.swift */,
 				2AA54D4D1FDDA25A00096F75 /* Main.storyboard */,
+				2A54F3351FEB761400388D68 /* EmergencyCallViewController.swift */,
+				2A54F3271FE983DD00388D68 /* RepairedViewController.swift */,
+				2A54F3291FEA9E7800388D68 /* RepairedItem.swift */,
+				2A54F3251FE983B000388D68 /* MaintenanceCallListViewController.swift */,
+				2A54F3231FE97D2100388D68 /* Bill.swift */,
+				2A54F3211FE979B400388D68 /* BillTableViewController.swift */,
+				2A54F31D1FE967C700388D68 /* NewsTableViewController.swift */,
+				2A54F31B1FE9659E00388D68 /* News.swift */,
+				2A54F31F1FE96C2F00388D68 /* NewsDataViewController.swift */,
 				2AA54D531FDDA25A00096F75 /* Assets.xcassets */,
 				2AA54D551FDDA25A00096F75 /* LaunchScreen.storyboard */,
 				2AA54D581FDDA25A00096F75 /* Info.plist */,
@@ -100,6 +162,26 @@
 					2AA54D451FDDA25A00096F75 = {
 						CreatedOnToolsVersion = 9.2;
 						ProvisioningStyle = Automatic;
+						SystemCapabilities = {
+							com.apple.ApplicationGroups.iOS = {
+								enabled = 0;
+							};
+							com.apple.BackgroundModes = {
+								enabled = 1;
+							};
+							com.apple.DataProtection = {
+								enabled = 0;
+							};
+							com.apple.InterAppAudio = {
+								enabled = 0;
+							};
+							com.apple.Maps.iOS = {
+								enabled = 0;
+							};
+							com.apple.WAC = {
+								enabled = 0;
+							};
+						};
 					};
 				};
 			};
@@ -127,7 +209,13 @@
 			buildActionMask = 2147483647;
 			files = (
 				2AA54D571FDDA25A00096F75 /* LaunchScreen.storyboard in Resources */,
+				2A54F3141FE9205A00388D68 /* Announ.png in Resources */,
+				2A54F3181FE9225200388D68 /* main.png in Resources */,
+				2A54F31A1FE92ADA00388D68 /* Thammasat_University.png in Resources */,
 				2AA54D541FDDA25A00096F75 /* Assets.xcassets in Resources */,
+				2AA54D5F1FDDA26800096F75 /* DSC_8505.jpg in Resources */,
+				2A54F30C1FE8266C00388D68 /* phone2 2.png in Resources */,
+				2A54F3161FE9215300388D68 /* Bill.png in Resources */,
 				2AA54D4F1FDDA25A00096F75 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -139,9 +227,19 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				2AA54D4C1FDDA25A00096F75 /* ViewController.swift in Sources */,
+				2A54F3261FE983B000388D68 /* MaintenanceCallListViewController.swift in Sources */,
+				2A54F3281FE983DD00388D68 /* RepairedViewController.swift in Sources */,
+				2A54F30E1FE837C700388D68 /* SignInViewController.swift in Sources */,
+				2AA54D4C1FDDA25A00096F75 /* TUDormViewController.swift in Sources */,
+				2A54F3221FE979B400388D68 /* BillTableViewController.swift in Sources */,
+				2A54F31E1FE967C700388D68 /* NewsTableViewController.swift in Sources */,
 				2AA54D4A1FDDA25A00096F75 /* AppDelegate.swift in Sources */,
+				2A54F31C1FE9659E00388D68 /* News.swift in Sources */,
 				2AA54D521FDDA25A00096F75 /* TU_Dorm.xcdatamodeld in Sources */,
+				2A54F32A1FEA9E7800388D68 /* RepairedItem.swift in Sources */,
+				2A54F3361FEB761400388D68 /* EmergencyCallViewController.swift in Sources */,
+				2A54F3241FE97D2100388D68 /* Bill.swift in Sources */,
+				2A54F3201FE96C2F00388D68 /* NewsDataViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -281,6 +379,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 6L34F3QQGK;
 				INFOPLIST_FILE = "TU Dorm/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "PP.tu.ac.th.TU-Dorm";
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -296,6 +395,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 6L34F3QQGK;
 				INFOPLIST_FILE = "TU Dorm/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "PP.tu.ac.th.TU-Dorm";
 				PRODUCT_NAME = "$(TARGET_NAME)";
